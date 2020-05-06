@@ -262,5 +262,6 @@ class Chat extends React.Component {
 - [Why do we need a React List Key ?](https://www.robinwieruch.de/react-list-key)
 - [Power of “keys” in React.js](https://blog.usejournal.com/power-of-keys-in-react-js-%EF%B8%8F-55bb5bf80821)
 - [Understanding React's key prop](https://kentcdodds.com/blog/understanding-reacts-key-prop)
+- [Forcing state reset on a React component by using the key prop](https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e)
 
 <Author slug="aissa" />

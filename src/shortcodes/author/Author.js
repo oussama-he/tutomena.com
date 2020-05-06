@@ -17,10 +17,10 @@ export default function Author({ slug }) {
     <>
       <div>
         <div className="author-widget">
-          <div class="photo">
+          <div className="photo">
             <img src={photo} alt={name} />
           </div>
-          <div class="about">
+          <div className="about">
             <h5>{name}</h5>
             <summary>{bio}</summary>
             <div className="links">
